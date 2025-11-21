@@ -27,3 +27,11 @@ To monitor and analyze sales performance across states, categories, and payment 
 1. Open the `.pbix` files using Microsoft Power BI Desktop.
 2. Explore filters and slicers to view dynamic insights.
 3. Replace dataset paths if files are moved locally.
+
+---
+
+## Copyright Notice
+
+Copyright (c) 2025 Sumit Pal. All Rights Reserved.
+
+This project is not licensed for external distribution, modification, or commercial use without express written permission from the copyright holder.
